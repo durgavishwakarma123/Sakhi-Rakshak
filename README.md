@@ -4,7 +4,19 @@
 
 ---
 
-## 🌟 Key Features
+Women safety Flutter application with SOS alerts,
+live location tracking, multilingual support,
+and Firebase backend integration.
+![flutter_01.png](flutter_01.png)
+![flutter_02.png](![flutter_03.png](flutter_03.png)flutter_02.png)
+![flutter_04.png](flutter![flutter_05.png](flutter_05.png)_04.png)
+[flutter_06.png](flutter_06.png)
+
+
+
+----
+
+## 🌟 Key Features!
 
 1. **Emergency SOS Pulse Button**: Ek custom animated button jo trigger hote hi live location share, background audio recording aur emergency SMS alert direct dispatch karta hai.
 2. **Cyber Complaint Vault**: Blackmail aur photo threat ke cases me screenshots, chat leaks aur media documents ko encrypt karke seedhe Cyber Crime cell ko submit karne ki suvidha.
@@ -95,6 +107,4 @@ video_player: ^2.8.6
 4. Run standard build:
    ```bash
    flutter run
-   ```
-
-Design kiya gaya hai **Antigravity AI (Google Deepmind Team)** dwara aapke aur poore desh ki mahilaon ki suraksha ke liye. 🛡️
+   '''''️
