@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "327170268263",
+    "project_id": "myapp-f48d2",
+    "storage_bucket": "myapp-f48d2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327170268263:android:3f01ac14dc5c8ea61b88c2",
+        "android_client_info": {
+          "package_name": "com.smart_sakhi_example.smart_sakhi_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327170268263-rl9555fmpv43kmpfrt4r7mmpqq12q0nu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1Nz7VQ2TV146sP9MM1Q_OORQ538vouaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327170268263-rl9555fmpv43kmpfrt4r7mmpqq12q0nu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
